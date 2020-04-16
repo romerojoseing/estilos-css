@@ -112,6 +112,56 @@ Para el diseño de los estilos css vamos a tener que seguir algunas reglas impor
 | ```list-style-position``` |                                                                                           ```inside , outside```                                                                                          | Posición dentro de la lista de los elementos marcadores de las listas |
 |      ```list-style```     |                                                                       ```list-style-type , list-style-position , list-style-image```                                                                      | Permite establecer el estilo de la lista, la imagen y/o la posición   |
 
+<br>
+
+## Cajas
+
+|         Propiedad         |                                          Valores                                         | Descripción                             |
+|:-------------------------:|:----------------------------------------------------------------------------------------:|-----------------------------------------|
+|        ```width```        |                              ```auto , px , % , em , rem```                              | Ancho de la caja.                       |
+|        ```height```       |                              ```auto , px , % , em , rem```                              | Alto de la caja.                        |
+|     ```padding-top```     |                                  ```px , % , em , rem```                                 | Margen superior interno de la caja.     |
+|    ```padding-right```    |                                  ```px , % , em , rem```                                 | Margen derecho interno de la caja.      |
+|    ```padding-bottom```   |                                  ```px , % , em , rem```                                 | Margen inferior interno de la caja.     |
+|     ```padding-left```    |                                  ```px , % , em , rem```                                 | Margen izquierdo interno de la caja.    |
+|       ```padding```       |                                  ```px , % , em , rem```                                 | Margen interno de la caja.              |
+|      ```margin-top```     |                                  ```px , % , em , rem```                                 | Margen superior externo de la caja.     |
+|     ```margin-right```    |                                  ```px , % , em , rem```                                 | Margen derecho externo de la caja.      |
+|    ```margin-bottom```    |                                  ```px , % , em , rem```                                 | Margen inferior externo de la caja.     |
+|     ```margin-left```     |                                  ```px , % , em , rem```                                 | Margen izquierdo externo de la caja.    |
+|        ```margin```       |                                  ```px , % , em , rem```                                 | Margen externo de la caja.              |
+|   ```border-top-width```  |                      ```thin , medium , thick , px , % , em , rem```                     | Anchura del borde superior de la caja.  |
+|  ```border-right-width``` |                      ```thin , medium , thick , px , % , em , rem```                     | Anchura del borde derecho de la caja.   |
+| ```border-bottom-width``` |                      ```thin , medium , thick , px , % , em , rem```                     | Anchura del borde inferior de la caja.  |
+|  ```border-left-width```  |                      ```thin , medium , thick , px , % , em , rem```                     | Anchura del borde izquierdo de la caja. |
+|     ```border-width```    |                      ```thin , medium , thick , px , % , em , rem```                     | Anchura del borde de la caja.           |
+|   ```border-top-color```  |                                 ```color , transparent```                                | Color de borde superior de la caja.     |
+|  ```border-right-color``` |                                 ```color , transparent```                                | Color de borde derecho de la caja.      |
+| ```border-bottom-color``` |                                 ```color , transparent```                                | Color de borde inferior de la caja.     |
+|  ```border-left-color```  |                                 ```color , transparent```                                | Color de borde izquierdo de la caja.    |
+|     ```border-color```    |                                 ```color , transparent```                                | Color de borde de la caja.              |
+|   ```border-top-style```  | ```none , hidden , dotted , dashed , solid , double , groove , ridge , inset , outset``` | Estilo de borde superior de la caja.    |
+|  ```border-right-style``` | ```none , hidden , dotted , dashed , solid , double , groove , ridge , inset , outset``` | Estilo de borde derecho de la caja.     |
+| ```border-bottom-style``` | ```none , hidden , dotted , dashed , solid , double , groove , ridge , inset , outset``` | Estilo de borde inferior de la caja.    |
+|  ```border-left-style```  | ```none , hidden , dotted , dashed , solid , double , groove , ridge , inset , outset``` | Estilo de borde izquierdo de la caja.   |
+|     ```border-style```    | ```none , hidden , dotted , dashed , solid , double , groove , ridge , inset , outset``` | Estilo de borde de la caja.             |
+|      ```border-top```     |               ```border-top-width , border-top-style , border-top-color```               | Borde superior de la caja.              |
+|     ```border-right```    |               ```border-top-width , border-top-style , border-top-color```               | Borde derecho de la caja.               |
+|    ```border-bottom```    |               ```border-top-width , border-top-style , border-top-color```               | Borde inferior de la caja.              |
+|     ```border-left```     |               ```border-top-width , border-top-style , border-top-color```               | Borde izquierdo de la caja.             |
+|        ```border```       |               ```border-top-width , border-top-style , border-top-color```               | Borde de la caja.                       |
+|    ```border-radius```    |                                  ```px , % , em , rem```                                 | Curvatura del borde                     |
+|       ```position```      |                        ```static , relative , absolute , fixed```                        | Esquema de posicionamiento              |
+|       ```display```       |                        ```inline , block , inline-block , none```                        | Comportamiento del contenedor           |
+|         ```top```         |                              ```auto , px , % , em , rem```                              | Desplazamiento superior de la caja.     |
+|        ```right```        |                              ```auto , px , % , em , rem```                              | Desplazamiento derecho de la caja.      |
+|        ```bottom```       |                              ```auto , px , % , em , rem```                              | Desplazamiento inferior de la caja.     |
+|         ```left```        |                              ```auto , px , % , em , rem```                              | Desplazamiento izquierda de la caja.    |
+|        ```float```        |                                 ```left , right , none```                                | Posicionamiento flotante                |
+|        ```clear```        |                             ```none , left , right , both```                             | Control de cajas adyacentes a las float |
+|       ```z-index```       |                                ```auto , numero entero```                                | Nivel de la capa                        |
+
+
 <br><br>
 
 ## Tecnologías Usadas
