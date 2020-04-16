@@ -80,7 +80,7 @@ Para el diseño de los estilos css vamos a tener que seguir algunas reglas impor
 ## Fuentes
 
 |      Propiedad     |                                                      Valores                                                      | Descripción                                            |
-|:------------------:|:-----------------------------------------------------------------------------------------------------------------:|--------------------------------------------------------|
+|:------------------:|:----------------------------------------------------------------------------:|--------------------------------------------------------|
 |  ```font-family``` |                                     ```nombre-familia , arial , sans-serif```                                     | Familias de fuentes.                                   |
 |  ```font-style```  |                                          ```normal , italic , oblique```                                          | Estilo de la fuente.                                   |
 | ```font-variant``` |                                             ```normal , small-caps```                                             | Anchura de los caracteres. Normal = 400, Negrita = 700 |
