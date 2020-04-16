@@ -30,7 +30,6 @@ Para el diseño de los estilos css vamos a tener que seguir algunas reglas impor
 	}
 ```
 
-
 <br>
 
 ## Tipos de Selectores
@@ -40,6 +39,30 @@ Para el diseño de los estilos css vamos a tener que seguir algunas reglas impor
 |   ```div```  | Selector de tipo etiqueta, este sirve para cualquier etiqueta declarada en HTML. |
 | ```.class``` | Selector de clase asociada a una etiqueta en HTML.                               |
 |   ```#id```  | Selector de id asociado a una etiqueta en HTML.                                  |
+
+<br>
+
+## Unidades de Medida
+
+|  Valores  | Descripción                                                                                        |
+|:---------:|----------------------------------------------------------------------------------------------------|
+|  ```px``` | Píxeles (relativo al dispositivo)                                                                  |
+|  ```em``` | Relativo al tamaño de la fuente del elemento (2em significa 2 veces el tamaño de la fuente actual) |
+| ```rem``` | Relativo al tamaño de la fuente Padre (2rem significa 2 veces el tamaño de la fuente del padre)    |
+|  ```%```  | Porcentaje (relativo al elemento padre)                                                            |
+
+<br>
+
+## Color
+
+|  Propiedad  |             Valores             | Descripción                          |
+|:-----------:|:-------------------------------:|--------------------------------------|
+| ```color``` |            ```red```            | Color de Texto en formato nombre     |
+|             |          ```#ffffff```          | Colo de Texto en formato hexadecimal |
+|             |    ```rgb(255, 255, 255);```    | Color de Texto en formato RGB        |
+|             | ```rgba(255, 160, 122, 0.3);``` | Color de Texto en formato RGBA       |
+
+
 
 <br><br>
 
