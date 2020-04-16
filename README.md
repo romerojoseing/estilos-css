@@ -36,11 +36,10 @@ Para el diseño de los estilos css vamos a tener que seguir algunas reglas impor
 ## Tipos de Selectores
 
 |  Selectores  |                                    Descripción                                   |
-|:------------:|:--------------------------------------------------------------------------------:|
+|:------------:|----------------------------------------------------------------------------------|
 |   ```div```  | Selector de tipo etiqueta, este sirve para cualquier etiqueta declarada en HTML. |
 | ```.class``` | Selector de clase asociada a una etiqueta en HTML.                               |
 |   ```#id```  | Selector de id asociado a una etiqueta en HTML.                                  |
-
 
 <br><br>
 
