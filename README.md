@@ -25,115 +25,22 @@ Para el diseño de los estilos css vamos a tener que seguir algunas reglas impor
 		propiedad: valor;
 	}
 
-	h1{									/* Selector */
-		font-size: 10px;				/* Propiedad y Valor */
+	h1{									
+		font-size: 10px;	
 	}
 ```
 
 
 <br>
 
-## Selectores
+## Tipos de Selectores
 
-```css
-	div{                     			/* Selector de Etiqueta */
-    background: #fff;
-	}
+|  Selectores  |                                    Descripción                                   |
+|:------------:|:--------------------------------------------------------------------------------:|
+|   ```div```  | Selector de tipo etiqueta, este sirve para cualquier etiqueta declarada en HTML. |
+| ```.class``` | Selector de clase asociada a una etiqueta en HTML.                               |
+|   ```#id```  | Selector de id asociado a una etiqueta en HTML.                                  |
 
-	#div{                                /* Selector de Id */
-    background: #fff;
-	}
-
-	.div{                                /* Selector de Clase */
-    background: #fff;
-	}
-```
-
-```css
-	/* ---------------------- Atribitos y condiciones de las fuentes y otros ---------------------- */
-h1{
-    color: white;               /* Cambia el Color de tecto o icono */
-    color: gray !important;     /* Darle importancia a esta regla sobre todo */
-    background: gray;           /* Cambia color de Fondo */
-    background-image: url(../img/bakbaner.png);
-    background-position: -200px -200px;
-    
-    font-size: 18px;              /* Tamaño de Fuente */
-    font-weight: 500;             /* Grosor de Fuente */
-    font-family: sans-serif;      /* Familia de Fuente */
-    font-style: normal;           /* Estilo de Fuente */
-
-    text-align: center;           /* Alinear el texto */
-    text-decoration: none;        /* Eliminar decoracion en texto (Enlaces) o usar el underline para agregar subrayado*/
-    text-transform: uppercase;    /* Transformar fuente Minusculas o Mayusculas */
-    text-shadow: 1px 1px 2px black;  /* Sombra en Texto X Y Grosor Color*/
-    text-indent: 20px;            /* Generar un espacio antes de cada parrafo */
-    word-spacing: 10px;           /* Generar espacio entre palabras*/
-    letter-spacing: 5px;          /* Generar espacios entre letras*/ 
-    line-height: 50px;            /* Ajustar el espacio entre lineas*/
-
-    width: 300px;                 /* Tamaño Horizontal del elemento */
-    min-width: 500px;             /* Tamaño Minimo de ancho */
-    max-width: 1400px;            /* Tamaño Maximo de ancho */
-    height: 200px;                /* Tamaño Vertical del elemento */
-    min-height: 500px;            /* Tamaño Minimo de alto */
-    max-height: 1400px;           /* Tamaño Maximo de alto */
-    
-    margin: 10px;                 /* Margen Externo del texto, imagen o lo que sea */
-    margin: 10px auto;            /* Margen de 10px top y centrar */
-    margin-top: 10px;
-    margin-left: 10px;
-    margin-bottom: 10px;
-    margin-right: 10px;
-    margin: 15px 15px 15px 15px;  /* Top Right Botton Left */
-
-    padding: 10px;                /* Margen Interno del texto, imagen o lo que sea */
-    padding-top: 10px;
-    padding-left: 10px;
-    padding-bottom: 10px;
-    padding-right: 10px;
-    padding: 15px 15px 15px 15px; /* Top Right Botton Left */
-
-    border: 1px solid black;            /* Agregar borde Tamaño Tipo y Color */
-    box-shadow: 0px 0px 15px black;     /* Sombras Horizontal Vertical Difuminado y Color*/
-    border-radius: 30px 10px 4px 60px;    /* Sup iz, sup der, inf der, inf iz*/
-    border-radius: 50%;
-    border-radius: 30px;
-
-    display: block;               /* Trabajar el elemnto como un bloque */
-    float: left;                  /* Flotar las cajas para que se muevan en una direccion junstas */
-
-    cursor: pointer;              /* Hacer efecto de cursor de mano en el puntero*/
-
-    position: absolute;           /*Posicion absoluta que pasa por encima de cualquier elemento*/
-    top: 10%;
-    left: 0px;
-    z-index: 1;                   /*Relevancia de elementos para saber cual va encima, mientras mas alto el indice va arriba del todo*/
-
-    position: fixed;              /* Posicio fijada donde se sigue el scroll de la pagina*/
-    top: 50%;
-    left: 0px;
-    z-index: 2;
-
-    overflow: scroll;
-    overflow-y: scroll;             /* scroll en casilla de texto*/
-    overflow-x: hidden;
-    overflow: hidden;               /* todo lo que se salga fuera del item no se ve */
-    
-}
-```
-
-
-
-
-
-
-| Longitudes |                 Valores                 | Descripción |
-|:----------:|:---------------------------------------:|:-----------:|
-|  Relativas |                 ```px```                | ayuda       |
-|            | StartFragment```position``` EndFragment | dssf        |
-|            | StartFragment```position``` EndFragment | dfdsf       |
-|            | StartFragment```position``` EndFragment | fsdfsd      |
 
 <br><br>
 
