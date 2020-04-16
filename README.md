@@ -79,13 +79,13 @@ Para el diseño de los estilos css vamos a tener que seguir algunas reglas impor
 
 ## Fuentes
 
-|      Propiedad     |   | Descripción                                            |
-|:------------------:|:-:|--------------------------------------------------------|
-|  ```font-family``` |   | Familias de fuentes.                                   |
-|  ```font-style```  |   | Estilo de la fuente.                                   |
-| ```font-variant``` |   | Anchura de los caracteres. Normal = 400, Negrita = 700 |
-|  ```font-weight``` |   | Desplazamiento de la imagen.                           |
-|   ```font-size```  |   | Tamaño de la fuente.                                   |
+|      Propiedad     |                                            Valores                                           | Descripción                                            |
+|:------------------:|:--------------------------------------------------------------------------------------------:|--------------------------------------------------------|
+|  ```font-family``` |                                     ```nombre | arial```                                     | Familias de fuentes.                                   |
+|  ```font-style```  |                                ```normal | italic | oblique```                               | Estilo de la fuente.                                   |
+| ```font-variant``` |                                   ```normal | small-caps```                                  | Anchura de los caracteres. Normal = 400, Negrita = 700 |
+|  ```font-weight``` | ```normal | bold | bolder | lighter | 100 | 200 | 300 | 400 | 500 | 600 | 700 | 800 | 900``` | Desplazamiento de la imagen.                           |
+|   ```font-size```  |                ```small | medium | large | pixeles | porcentaje | em | rem```                | Tamaño de la fuente.                                   |
 
 <br><br>
 
