@@ -85,7 +85,22 @@ Para el diseño de los estilos css vamos a tener que seguir algunas reglas impor
 |  ```font-style```  |                                          ```normal , italic , oblique```                                          | Estilo de la fuente.                                   |
 | ```font-variant``` |                                             ```normal , small-caps```                                             | Anchura de los caracteres. Normal = 400, Negrita = 700 |
 |  ```font-weight``` |            ```normal , bold , bolder , lighter , 100 , 200 , 300 , 400 , 500 , 600 , 700 , 800 , 900```           | Desplazamiento de la imagen.                           |
-|   ```font-size```  | ```small , medium , large , pixeles , porcentaje , em , rem``` | Tamaño de la fuente.                                   |
+|   ```font-size```  | ```small , medium , large , px , % , em , rem``` | Tamaño de la fuente.                                   |
+
+<br>
+
+## Textos
+
+|       Propiedad       |                      Valores                     | Descripción                                   |
+|:---------------------:|:------------------------------------------------:|-----------------------------------------------|
+|   ```text-indent```   |              ```px , % , em , rem```             | Desplazamiento de la primera línea del texto. |
+|    ```text-align```   |       ```left , right , center , justify```      | Alineamiento del texto.                       |
+| ```text-decoration``` | ```none , underline , overline , line-through``` | Efectos de subrayado, tachado, parpadeo       |
+|  ```letter-spacing``` |         ```normal , px , % , em , rem```         | Espacio entre caracteres.                     |
+|   ```word-spacing```  |         ```normal , px , % , em , rem```         | Espacio entre palabras.                       |
+|  ```text-transform``` |  ```capitalize , uppercase , lowercase , none``` | Transformación a mayúsculas / minúsculas.     |
+|   ```line-height```   |         ```normal , px , % , em , rem```         | Tamaño del espacio entre líneas.              |
+
 
 <br><br>
 
