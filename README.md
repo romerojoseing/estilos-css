@@ -83,7 +83,7 @@ Para el diseño de los estilos css vamos a tener que seguir algunas reglas impor
 |:------------------:|:----------------------------------------------------------------------------:|--------------------------------------------------------|
 |  ```font-family``` |                                     ```nombre-familia , arial , sans-serif```                                     | Familias de fuentes.                                   |
 |  ```font-style```  |                                          ```normal , italic , oblique```                                          | Estilo de la fuente.                                   |
-| ```font-variant``` |                                             ```normal , small-caps```                                             | Desplazamiento de la imagen.|
+| ```font-variant``` |                                             ```normal , small-caps```                                             | Variante de fuente.|
 |  ```font-weight``` |            ```normal , bold , bolder , lighter , 100 - 900```           | Anchura de los caracteres.                           |
 |   ```font-size```  | ```small , medium , large , px , % , em , rem``` | Tamaño de la fuente.                                   |
 
@@ -101,6 +101,16 @@ Para el diseño de los estilos css vamos a tener que seguir algunas reglas impor
 |  ```text-transform``` |  ```capitalize , uppercase , lowercase , none``` | Transformación a mayúsculas / minúsculas.     |
 |   ```line-height```   |         ```normal , px , % , em , rem```         | Tamaño del espacio entre líneas.              |
 
+<br>
+
+## Listas
+
+|         Propiedad         |                                                                                                  Valores                                                                                                  | Descripción                                                           |
+|:-------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|-----------------------------------------------------------------------|
+|   ```list-style-type```   | ```disc ,  circle ,  square ,  decimal ,  decimal-leading-zero ,  lower-roman ,  upper-roman ,  lower-greek ,  lower-latin ,  upper-latin ,  armenian ,  georgian ,  lower-alpha ,  upper-alpha , none``` | Estilo aplicable a los marcadores.                                    |
+|   ```list-style-image```  |                                                                                        ```url(“http://…”) , none```                                                                                       | Imagen aplicable a los elementos de las listas.                       |
+| ```list-style-position``` |                                                                                           ```inside , outside```                                                                                          | Posición dentro de la lista de los elementos marcadores de las listas |
+|      ```list-style```     |                                                                       ```list-style-type , list-style-position , list-style-image```                                                                      | Permite establecer el estilo de la lista, la imagen y/o la posición   |
 
 <br><br>
 
