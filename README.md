@@ -79,13 +79,13 @@ Para el diseño de los estilos css vamos a tener que seguir algunas reglas impor
 
 ## Fuentes
 
-|      Propiedad     |                                                      Valores                                                      | Descripción                                            |
-|:------------------:|:-----------------------------------------------------------------------------------------------------------------:|--------------------------------------------------------|
-|  ```font-family``` |                                     ```nombre-familia | arial | sans-serif```                                     | Familias de fuentes.                                   |
-|  ```font-style```  |                                          ```normal | italic | oblique```                                          | Estilo de la fuente.                                   |
-| ```font-variant``` |                                             ```normal | small-caps```                                             | Anchura de los caracteres. Normal = 400, Negrita = 700 |
-|  ```font-weight``` |            ```normal | bold | bolder | lighter | 100 | 200 | 300 | 400 | 500 | 600 | 700 | 800 | 900```           | Desplazamiento de la imagen.                           |
-|   ```font-size```  | ```xx-small | x-small | small | medium | large | x-large | xx-large | larger | smaller | longitud | porcentaje``` | Tamaño de la fuente.                                   |
+|      Propiedad     |                                            Valores                                           | Descripción                                            |
+|:------------------:|:--------------------------------------------------------------------------------------------:|--------------------------------------------------------|
+|  ```font-family``` |                           ```nombre-familia | arial | sans-serif```                          | Familias de fuentes.                                   |
+|  ```font-style```  |                                ```normal | italic | oblique```                               | Estilo de la fuente.                                   |
+| ```font-variant``` |                                   ```normal | small-caps```                                  | Anchura de los caracteres. Normal = 400, Negrita = 700 |
+|  ```font-weight``` | ```normal | bold | bolder | lighter | 100 | 200 | 300 | 400 | 500 | 600 | 700 | 800 | 900``` | Desplazamiento de la imagen.                           |
+|   ```font-size```  |                ```small | medium | large | pixeles | porcentaje | em | rem```                | Tamaño de la fuente.                                   |
 
 <br><br>
 
