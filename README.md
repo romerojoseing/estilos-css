@@ -119,7 +119,11 @@ Para el diseño de los estilos css vamos a tener que seguir algunas reglas impor
 |         Propiedad         |                                          Valores                                         | Descripción                             |
 |:-------------------------:|:----------------------------------------------------------------------------------------:|-----------------------------------------|
 |        ```width```        |                              ```auto , px , % , em , rem```                              | Ancho de la caja.                       |
+|      ```min-width```      |                              ```auto , px , % , em , rem```                              | Ancho mínimo de la caja.                |
+|      ```max-width```      |                              ```auto , px , % , em , rem```                              | Ancho máximo de la caja.                |
 |        ```height```       |                              ```auto , px , % , em , rem```                              | Alto de la caja.                        |
+|      ```min-height```     |                              ```auto , px , % , em , rem```                              | Alto mínimo de la caja.                 |
+|      ```max-height```     |                              ```auto , px , % , em , rem```                              | Alto máximo de la caja.                 |
 |     ```padding-top```     |                                  ```px , % , em , rem```                                 | Margen superior interno de la caja.     |
 |    ```padding-right```    |                                  ```px , % , em , rem```                                 | Margen derecho interno de la caja.      |
 |    ```padding-bottom```   |                                  ```px , % , em , rem```                                 | Margen inferior interno de la caja.     |
@@ -160,7 +164,6 @@ Para el diseño de los estilos css vamos a tener que seguir algunas reglas impor
 |        ```float```        |                                 ```left , right , none```                                | Posicionamiento flotante                |
 |        ```clear```        |                             ```none , left , right , both```                             | Control de cajas adyacentes a las float |
 |       ```z-index```       |                                ```auto , numero entero```                                | Nivel de la capa                        |
-
 
 <br><br>
 
