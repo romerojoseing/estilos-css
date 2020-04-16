@@ -165,6 +165,19 @@ Para el diseño de los estilos css vamos a tener que seguir algunas reglas impor
 |        ```clear```        |                             ```none , left , right , both```                             | Control de cajas adyacentes a las float |
 |       ```z-index```       |                                ```auto , numero entero```                                | Nivel de la capa                        |
 
+<br>
+
+## Pseudo-clases
+
+| Pseudo-clase | Descripción                                                     |
+|:------------:|-----------------------------------------------------------------|
+|     :link    | No visitado por el usuario                                      |
+|   :visited   | Visitado por el usuario                                         |
+|    :hover    | Modifica el estilo cuando un elemento apuntador pasa por encima |
+|    :active   | Se activa cuando el usuario pulsa el elemento                   |
+|    :focus    | Se activa cuando tiene el foco sobre el elemento                |
+
+
 <br><br>
 
 ## Tecnologías Usadas
