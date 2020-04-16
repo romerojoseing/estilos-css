@@ -62,7 +62,30 @@ Para el diseño de los estilos css vamos a tener que seguir algunas reglas impor
 |             |    ```rgb(255, 255, 255);```    | Color de Texto en formato RGB        |
 |             | ```rgba(255, 160, 122, 0.3);``` | Color de Texto en formato RGBA       |
 
+<br>
 
+## Fondos
+
+|          Propiedad          |                       Valores                       | Descripción                     |
+|:---------------------------:|:---------------------------------------------------:|---------------------------------|
+|    ```background-color```   |        Aplican todos los valores de colores.        | Fondo con formato solo color.   |
+|    ```background-image```   |                      url(...);                      | Fondo con formato de imagen.    |
+|   ```background-repeat```   |    ```repeat | repeat-x | repeat-y | no-repeat```   | Repetir la imagen de fondo.     |
+| ```background-attachment``` |                 ```scroll | fixed```                | Desplazamiento de la imagen.    |
+|  ```background-position```  |  ```percentage | length | left | center | right```  | Posición de la imagen de fondo. |
+|       ```background```      | Aplican todos los valores de las clases background  | Fondo compuesto                 |
+
+<br>
+
+## Fuentes
+
+|      Propiedad     |                                                      Valores                                                      | Descripción                                            |
+|:------------------:|:-----------------------------------------------------------------------------------------------------------------:|--------------------------------------------------------|
+|  ```font-family``` |                                     ```nombre-familia | arial | sans-serif```                                     | Familias de fuentes.                                   |
+|  ```font-style```  |                                          ```normal | italic | oblique```                                          | Estilo de la fuente.                                   |
+| ```font-variant``` |                                             ```normal | small-caps```                                             | Anchura de los caracteres. Normal = 400, Negrita = 700 |
+|  ```font-weight``` |            ```normal | bold | bolder | lighter | 100 | 200 | 300 | 400 | 500 | 600 | 700 | 800 | 900```           | Desplazamiento de la imagen.                           |
+|   ```font-size```  | ```xx-small | x-small | small | medium | large | x-large | xx-large | larger | smaller | longitud | porcentaje``` | Tamaño de la fuente.                                   |
 
 <br><br>
 
