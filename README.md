@@ -1,22 +1,14 @@
-<p align="center"><img src="https://github.com/romerojoseing/archivos/blob/master/img/logov.png?raw=true" width="150"></p>
-
-<p align="center">
-Te doy la bienvenida a mi repositorio, puedes usar este contenido con total libertad, siempre teniendo el mayor respeto por los autores que desarrollaron el proyecto.
-</p>
-
-<br>
-
 # Etiquetas de CSS
 
 <br>
 
-## ¿Qué es CSS?
+## ¿Qué es CSS? 🚀
 
-CSS son las hojas de estilos en cascada, es el lenguaje que se utiliza para diseñar la estetica visual de un sitio web, si lo ponemos de cierta forma las hojas de estilos serian la piel del cuerpo humano y donde el html serian los huesos, uno seria el estilo y el otro la estructura. 
+_CSS son las hojas de estilos en cascada, es el lenguaje que se utiliza para diseñar la estetica visual de un sitio web, si lo ponemos de cierta forma las hojas de estilos serian la piel del cuerpo humano y donde el html serian los huesos, uno seria el estilo y el otro la estructura._
 
 <br>
 
-## Reglas Básicas de CSS
+## Reglas Básicas de CSS 📋
 
 Para el diseño de los estilos css vamos a tener que seguir algunas reglas importantes en cuanto a la composicion, tendremos un selector que servira como referencia al momento de asignar propiedades a selectores que pueden ser etiquetas, clases, id,... luego tendremos una propiedad que se le agregara a este selector y el valor correspondiente a esta propiedad.
 
@@ -32,7 +24,7 @@ Para el diseño de los estilos css vamos a tener que seguir algunas reglas impor
 
 <br>
 
-## Tipos de Selectores
+## Tipos de Selectores 👓
 
 |  Selectores  |                                    Descripción                                   |
 |:------------:|----------------------------------------------------------------------------------|
@@ -42,7 +34,7 @@ Para el diseño de los estilos css vamos a tener que seguir algunas reglas impor
 
 <br>
 
-## Unidades de Medida
+## Unidades de Medida 📏
 
 |  Valores  | Descripción                                                                                        |
 |:---------:|----------------------------------------------------------------------------------------------------|
@@ -53,7 +45,7 @@ Para el diseño de los estilos css vamos a tener que seguir algunas reglas impor
 
 <br>
 
-## Color
+## Color 🌈
 
 |  Propiedad  |             Valores             | Descripción                          |
 |:-----------:|:-------------------------------:|--------------------------------------|
@@ -64,7 +56,7 @@ Para el diseño de los estilos css vamos a tener que seguir algunas reglas impor
 
 <br>
 
-## Fondos
+## Fondos 🖼
 
 |          Propiedad          |                       Valores                       | Descripción                     |
 |:---------------------------:|:---------------------------------------------------:|---------------------------------|
@@ -77,7 +69,7 @@ Para el diseño de los estilos css vamos a tener que seguir algunas reglas impor
 
 <br>
 
-## Fuentes
+## Fuentes 🔠
 
 |      Propiedad     |                                                      Valores                                                      | Descripción                                            |
 |:------------------:|:----------------------------------------------------------------------------:|--------------------------------------------------------|
@@ -89,7 +81,7 @@ Para el diseño de los estilos css vamos a tener que seguir algunas reglas impor
 
 <br>
 
-## Textos
+## Textos 🔡
 
 |       Propiedad       |                      Valores                     | Descripción                                   |
 |:---------------------:|:------------------------------------------------:|-----------------------------------------------|
@@ -103,7 +95,7 @@ Para el diseño de los estilos css vamos a tener que seguir algunas reglas impor
 
 <br>
 
-## Listas
+## Listas 📃
 
 |         Propiedad         |                                                                                                  Valores                                                                                                  | Descripción                                                           |
 |:-------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|-----------------------------------------------------------------------|
@@ -114,7 +106,7 @@ Para el diseño de los estilos css vamos a tener que seguir algunas reglas impor
 
 <br>
 
-## Cajas
+## Cajas 📦
 
 |         Propiedad         |                                          Valores                                         | Descripción                             |
 |:-------------------------:|:----------------------------------------------------------------------------------------:|-----------------------------------------|
@@ -167,7 +159,7 @@ Para el diseño de los estilos css vamos a tener que seguir algunas reglas impor
 
 <br>
 
-## Pseudo-clases
+## Pseudo-clases 🎬
 
 |  Pseudo-clase  | Descripción                                                     |
 |:--------------:|-----------------------------------------------------------------|
@@ -180,25 +172,21 @@ Para el diseño de los estilos css vamos a tener que seguir algunas reglas impor
 
 <br><br>
 
-## Tecnologías Usadas
+* [CSS 3](https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada) - Diseño de estilos.
 
-- CSS3
+<br>
 
-<br><br>
+## Autor ✒️
 
-## Autor
+_Si te gusta lo que hago, visita mi web y comparte mi contenido, también puedes seguirme en mis redes para estar al tanto de nuevas publicaciones y proyectos interesantes que estaré desarrollando._
 
-<p align="center"><img src="https://github.com/romerojoseing/archivos/blob/master/img/logoh.png?raw=true" width="200"></p>
+Diseñado con ❤️ por [Romero José](https://romerojose.com/)
 
-<p align="center">
-  Si te gusto el proyecto sígueme y dame apoyo para seguir creando más contenido.
-</p>
+### Redes Sociales
 
-<p align="center">
-  <a target="_blank" href="https://romerojose.com/"><img src="https://github.com/romerojoseing/archivos/blob/master/img/web.png?raw=true" height="20"></a> - 
-  <a target="_blank" href="https://www.linkedin.com/in/romerojoseing/"><img src="https://github.com/romerojoseing/archivos/blob/master/img/linkedin.png?raw=true" height="20"></a> - 
-  <a target="_blank" href="https://github.com/romerojoseing"><img src="https://github.com/romerojoseing/archivos/blob/master/img/github.png?raw=true" height="20"></a> - 
-  <a target="_blank" href="https://www.instagram.com/romerojoseing/"><img src="https://github.com/romerojoseing/archivos/blob/master/img/instagram.png?raw=true" height="20"></a> - 
-  <a target="_blank" href="https://www.facebook.com/romerojoseing"><img src="https://github.com/romerojoseing/archivos/blob/master/img/facebook.png?raw=true" height="20"></a> - 
-  <a target="_blank" href="https://twitter.com/romerojoseing"><img src="https://github.com/romerojoseing/archivos/blob/master/img/twitter.png?raw=true" height="20"></a>
-</p>
+* **GitHub** - *Repositorios de mis últimos proyectos* - [romerojoseing](https://github.com/romerojoseing)
+* **CodePen** - *Mini proyectos y pruebas interesantes* - [romerojoseing](https://codepen.io/romerojoseing)
+* **LinkedIn** - *Perfil desarrollador profesional* - [romerojoseing](https://www.linkedin.com/in/romerojoseing/)
+* **Instagram** - *Documentando mi viaje* - [romerojoseing](https://www.instagram.com/romerojoseing/)
+* **Facebook** - *Publicaciones y contenido promocional* - [romerojoseing](https://www.facebook.com/romerojoseing)
+* **Twitter** - *Comentarios random y más* - [romerojoseing](https://twitter.com/romerojoseing)
