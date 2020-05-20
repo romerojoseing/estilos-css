@@ -172,6 +172,10 @@ Para el diseño de los estilos css vamos a tener que seguir algunas reglas impor
 
 <br><br>
 
+## Construido con 🛠️
+
+_Para el desarrollo de este proyecto se utilizaron las siguientes tecnologías:_
+
 * [CSS 3](https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada) - Diseño de estilos.
 
 <br>
